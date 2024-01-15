@@ -1,0 +1,26 @@
+[
+  {
+    "_id": {
+      "$oid": "5f5930c1413bbb35c8e73d89"
+    },
+    "email": "b@b.dk",
+    "password": "$2b$05$/jZ0KqI846Nvh46GaTvNwu59YSLXsyW2l2mTz41VsOjT256F/bQfO",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f5931cc4a9b812ec004edec"
+    },
+    "email": "a@a.dk",
+    "password": "$2b$05$IKN3fcTSkTAL2bFv6qyekONVrxVXbM34pwJmLnmjB4yJfwc1zHwTe",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f5e37f2a1d6372034239225"
+    },
+    "email": "admin@vh.dk",
+    "password": "$2b$05$0VpGvd/OGhkDswiNmeylruMhb.2M33K4fAY.vf5WvILaCLzz94g/e",
+    "__v": 0
+  }
+]

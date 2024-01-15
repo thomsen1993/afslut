@@ -1,0 +1,29 @@
+[
+  {
+    "_id": {
+      "$oid": "5f6c70de618af12e9ca8be56"
+    },
+    "navn": "jens jensen",
+    "email": "test@test.dk",
+    "besked": "Her er en besked",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f6c72bd618af12e9ca8be57"
+    },
+    "navn": "jens jensen",
+    "email": "test@test.dk",
+    "besked": "Her er en besked",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f7b4fa314d560582c63f7c3"
+    },
+    "navn": "peter petersen",
+    "email": "peter@peter.dk",
+    "besked": "Fantastisk trimning af min græsplæne - den ligner sgu en golfbane nu! Kontakt mig lige så vi kan lave en fast aftale snarest.",
+    "__v": 0
+  }
+]

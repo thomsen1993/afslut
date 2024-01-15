@@ -1,0 +1,11 @@
+[
+  {
+    "_id": {
+      "$oid": "5f58f724af6bf45f70b2b77e"
+    },
+    "address": "<p>Odshøjvej 11G<br /><br />8800 Viborg</p>",
+    "openhours": "<p>Mandag - L&oslash;rdag: 08:00 - 18:0<br /><br />S&oslash;ndag: LUKKET</p>",
+    "contactinformation": "<p>Email: info@viborghaveservice.org<br /><br />Telefon: +45 12 34 56 78</p>",
+    "__v": 0
+  }
+]

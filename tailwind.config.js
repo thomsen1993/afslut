@@ -4,15 +4,22 @@ module.exports = {
     './src/pages/**/*.{js,ts,jsx,tsx,mdx}',
     './src/components/**/*.{js,ts,jsx,tsx,mdx}',
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
+    "./node_modules/flowbite/**/*.js"
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
-      },
+      keyframes: {
+        moving: {
+          "0%": {left: 0},
+          "50%": {right: 0},
+          "100%": {left: 0}
+        },
+        show: {
+          "0%": {opacity: 0, top: 50},
+          "100%": {opacity: 1, top: 17}
+        }
+      }
     },
   },
-  plugins: [],
+  plugins: [require('flowbite/plugin')],
 }

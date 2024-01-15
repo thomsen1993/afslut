@@ -1,0 +1,34 @@
+[
+  {
+    "_id": {
+      "$oid": "5f58f83089fef55ec40aa587"
+    },
+    "author": "Jette Bisgaard, Randers",
+    "content": "Jeg har været rigtig glade for samarbejdet med Viborg Planteservice. De møder altid op med godt humør og klar til at få styr på min græsplæne",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f5e30cba1d6372034239220"
+    },
+    "author": "Thomas Gal, Kirstineskolen, Roskilde, Denmark",
+    "content": "Da vores pedel har været hængt op med meget arbejde, har Viborg Planteservice assisteret os med yderst et yderst tilfredsstillende resultat.",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f5e726c844452515c6f5769"
+    },
+    "author": "John Bo Jørgensen, Viborg",
+    "content": "Jeg skulle have lavet min have, efter at have ombygget mit hus, og Viborg Planteservice klarede hele arbejdet, mens jeg var på golfbanen.",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "659e5ac4c30c12fdca7cc743"
+    },
+    "author": "Signe Hansen, Grenå",
+    "content": "Jeg er kort og godt bare tilfreds! Super service.",
+    "__v": 0
+  }
+]

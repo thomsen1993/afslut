@@ -1,0 +1,7 @@
+{
+    "sort": [
+        {"by": "popularity"},
+        {"by": "relevancy"},
+        {"by": "publishedAt"}
+    ]
+}

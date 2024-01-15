@@ -1,0 +1,38 @@
+[
+  {
+    "_id": {
+      "$oid": "5f5e140f40bce414c8708182"
+    },
+    "title": "Plænepleje",
+    "content": "Vi påtager os at passe plænen for dig, og håndterer alt såning, gødning, kalkning og klipning.",
+    "image": "1600024746643-ydelser-1.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f5e328aa1d6372034239221"
+    },
+    "title": "Anlægsgartneri",
+    "content": "Vi håndterer alt udendørs areal for din virksomhed, såsom flisepleje, behandling af bede, plæner og snerydning om vinteren.",
+    "image": "1600024797455-ydelser-2.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f5e670c3d4c7a3d6c074b97"
+    },
+    "title": "Træpleje",
+    "content": "Vi sørger for at dine træer bliver behandlet og beskåret hele året rundt.",
+    "image": "1600024856533-ydelser-3.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f5e6af7a444b65850a0e313"
+    },
+    "title": "Forår og efterårsrengøring?",
+    "content": "Vi gør haven klar til sommerbrug, og fjerner løvfald for dig om efteråret.",
+    "image": "1600024896688-ydelser-4.jpg",
+    "__v": 0
+  }
+]

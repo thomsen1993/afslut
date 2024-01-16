@@ -1,7 +1,9 @@
+
 import Image from "next/image";
 import benny from "../../public/benny.jpg"
 
 export default function Home() {
+
   return (
     <section className="max-w-[900px] mx-auto my-10 border-4 border-double border-green-400 shadow-lg">
       <div className="m-10">

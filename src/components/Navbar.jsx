@@ -4,15 +4,29 @@ import { useState } from "react";
 import Link from "next/link";
 import { FaSoundcloud, FaNewspaper } from "react-icons/fa";
 import { MdWindPower } from "react-icons/md";
+import { MdOutlineLightMode, MdOutlineNightlight  } from "react-icons/md";
 
-const Navbar = () => {
+const Navbar = ({}) => {
   const [down, setDown] = useState(false);
 
+  const [darkMode, setDarkMode] = useState(false);
+
+  const toggleDarkMode = () => {
+    setDarkMode(!darkMode);
+  };
+
   return (
-    <nav className="flex justify-between border-b border-green-400 shadow-lg p-5">
-      <ul>
+    <nav
+      className={`sticky top-0 flex justify-between border-b border-green-400 shadow-lg p-5 ${
+        darkMode ? "bg-black/50" : "bg-white/90"
+      } backdrop-blur-sm z-50`}
+    >
+      <ul className="flex gap-4">
         <li>
           <Link href="/">Home</Link>
+        </li>
+        <li className="cursor-pointer" onClick={toggleDarkMode}>
+          {darkMode ? <MdOutlineLightMode size={24}/> : <MdOutlineNightlight size={24}/>}
         </li>
       </ul>
       <ul className="flex gap-4">
